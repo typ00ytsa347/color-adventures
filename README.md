@@ -1,4 +1,4 @@
-# React App
+# Color Adventures
 
 ## Introduction
 
