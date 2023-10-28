@@ -1,4 +1,5 @@
 # Color Adventures
+Color Adventures is an educational web app for learning color theory through a visual novel style gameplay. Through the adventure with Picasso the Parrot, we will walk you through the concepts of primary colors, secondary colors and tertiary colors.
 
 ## Introduction
 
