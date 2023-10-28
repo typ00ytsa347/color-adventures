@@ -3,7 +3,13 @@ Color Adventures is an educational web app for learning color theory through a v
 
 ## Introduction
 
-React is a popular JavaScript library used for building user interfaces. Create-react-app (CRA) is a tool used to create a new React project with all the necessary dependencies and configuration pre-installed.
+The game has three levels: primary colors, secondary colors, and tertiary colors. Each level is a section of the story.
+
+![9c7ef9173ac0bba24f3aa6f18d8b3519](https://github.com/typ00ytsa347/color-adventures/assets/79774614/dcc7b961-14da-43eb-bdf6-5f6de69e4576)
+
+There are mini games throughout the story as well.
+
+![7ba3d70402798736bacf5d2b504c0a4f](https://github.com/typ00ytsa347/color-adventures/assets/79774614/d14ee83d-82b4-468f-a41e-ca3a288a2c2a)
 
 ## Environment Setup
 
